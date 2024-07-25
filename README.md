@@ -9,12 +9,12 @@ Benefits: Improved Digital Wellbeing, focus and overall productivity by managing
 
 **Development and usage**
 
-Clone or fork this repository          
-Go to Google Chrome Settings using three dots on the top right corner       
-Choose Extensions      
-Enable developer mode on the top right corner      
-Click on Load Unpacked and select your folder | Note: You need to select the folder in which the manifest file exists      
-After those steps extension will be installed and ready for use. If you want to make changes to source code, just do your changes in project and those will be automatically made for installed extension.    
+-Clone or fork this repository          
+-Go to Google Chrome Settings using three dots on the top right corner       
+-Choose Extensions      
+-Enable developer mode on the top right corner      
+-Click on Load Unpacked and select your folder | Note: You need to select the folder in which the manifest file exists      
+-After those steps extension will be installed and ready for use. If you want to make changes to source code, just do your changes in project and those will be automatically made for installed extension.    
 
 
 
