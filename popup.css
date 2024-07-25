@@ -1,0 +1,97 @@
+:root {
+  --white: #FCFCFF;
+  --primary-color: #3730F7;
+  --button-background-color: var(--primary-color);
+  --background-color: var(--white);
+  --header-color: var(--primary-color);
+  --time-description-color: #56525C;
+  --time-color: #151519;
+
+  --time-font-size: 34px;
+}
+
+.popup {
+  background-color: var(--background-color);
+  width: 300px;
+  height: auto;
+}
+
+.time-counter {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+
+.time-counter__block {
+  background-color: var(--background-color);
+  display: inline-block;
+  margin-left: 0;
+  position: relative;
+  text-align: center;
+  width: 60px;
+}
+
+.time-counter__time {
+  display: inline-block;
+  font-size: var(--time-font-size);
+  font-weight: 500;
+  color: var(--time-color);
+}
+
+.time-counter__description {
+  top: -15px;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+  color: var(--time-description-color);
+}
+
+.time-counter__block:before {
+  content: ":";
+  left: -7px;
+  top: -3px;
+  font-size: var(--time-font-size);
+  position: absolute;
+}
+
+.time-counter__block.hours:before {
+  content: "";
+}
+
+.time-wrapper.mt {
+  margin-top: 20px;
+}
+
+.time-header {
+  text-align: center;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--header-color);
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.btn {
+  padding: 10px 15px;
+  font-size: 16px;
+  width: 140px;
+  border: none;
+}
+
+.primary {
+  color: var(--white);
+  background-color: var(--button-background-color);
+  opacity: 0.8;
+}
+
+.primary:hover {
+  opacity: 0.7;
+}
