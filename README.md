@@ -19,8 +19,8 @@ After those steps extension will be installed and ready for use. If you want to 
 
 **Built With**
 
- HTML |  
- CSS |  
- JavaScript |
+ HTML      
+ CSS   
+ JavaScript    
  Icons from FlATICON- https://www.flaticon.com/free-icons/time-and-date
 
