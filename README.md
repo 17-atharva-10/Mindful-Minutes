@@ -1,5 +1,8 @@
 # Mindful-Minutes
-Web extension that tracks screen on time and off time and has the following features: Precisely monitors the duration of your screen. Pause &amp; resume when you step away or return. Enjoy a clean and intuitive design for effortless navigation. Benefits: Improved Digital Wellbeing, focus and overall productivity by managing screen time effectively.
+**Web extension that tracks screen on time and off time and has the following features:** 
+Precisely monitors the duration of your screen. Pause &amp; resume when you step away or return.\n/
+Enjoy a clean and intuitive design for effortless navigation. \n
+Benefits: Improved Digital Wellbeing, focus and overall productivity by managing screen time effectively.\n
 
 
 ![image](https://github.com/user-attachments/assets/86931699-5d18-4d68-a32b-7e5bd6f7893e)
@@ -15,8 +18,8 @@ Web extension that tracks screen on time and off time and has the following feat
 
 
 **Built With**
-HTML
-CSS
-JavaScript
+HTML \n
+CSS  \n 
+JavaScript \n
 Icons from FlATICON- https://www.flaticon.com/free-icons/time-and-date
 
