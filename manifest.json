@@ -1,7 +1,7 @@
 {
-    "name": "Screen Time Counter",
+    "name": "Mindful Minutes",
     "description" : "Chrome extension to count time which you spend looking at screen and time which you spend off from screen.",
-    "author": "Toms Tumshais",
+    "author": "Atharva Shinde",
     "version": "1.0.0",
     "manifest_version": 3,
     "icons": {
